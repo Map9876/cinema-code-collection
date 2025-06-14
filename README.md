@@ -411,4 +411,7 @@ if __name__ == '__main__':
 多线程同时打印失误原因: 27it [02:18,  6.8Last ID: 26, Found: 25: : 27it [02:18,  6.82s/it]
 
 Error fetching cinema ID 27: HTTPSConnectionPool(host='ys.endata.cn', port=443): Read timed out. (read timeout=None)
-Last ID: 26, Found: 25: : 28it [04:29, 44.1Last ID: 27, Found: 25: : 28it [04:29, 44.1Last ID: 27, Found: 25: : 29it [04:29, 31.0Last ID: 28, Found: 26: : 29it [04:29, 31.0Last ID: 28, Found: 26: : 30i比如这种，到底是时间还是切换ua就可以解决也要智能自动化解决```
+Last ID: 26, Found: 25: : 28it [04:29, 44.1Last ID: 27, Found: 25: : 28it [04:29, 44.1Last ID: 27, Found: 25: : 29it [04:29, 31.0Last ID: 28, Found: 26: : 29it [04:29, 31.0Last ID: 28, Found: 26: : 30i比如这种，到底是时间还是切换ua就可以解决也要智能自动化解决
+```
+
+来源 ：https://ys.endata.cn/ 艺恩娱数
