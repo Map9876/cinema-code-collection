@@ -1,7 +1,15 @@
 # cinema-code-collection
 影院专资编码
 
-以下是根据您提供的资料整理的完整文档，包含标准规范核心内容和可视化图表：
+# 影院数据文档说明
+
+## 数据文件获取方式
+
+可以通过以下链接查看和下载完整的影院数据：
+
+1. **简化影院数据集**  
+   文件`simple_all_cinemas_data_20250614_071759.json`(https://github.com/Map9876/cinema-code-collection/blob/main/simple_all_cinemas_data_20250614_071759.json)  
+   *仅包含影院名称、ZZID和CinemaID的简化信息*
 
 ---
 
